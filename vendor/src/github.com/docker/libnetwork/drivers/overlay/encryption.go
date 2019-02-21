@@ -12,7 +12,7 @@ import (
 
 	"strconv"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/docker/libnetwork/iptables"
 	"github.com/docker/libnetwork/ns"
 	"github.com/docker/libnetwork/types"
